@@ -1,0 +1,1 @@
+select * from efmpprocessomv where dtexclusao is not null
